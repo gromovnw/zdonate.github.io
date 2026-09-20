@@ -1,0 +1,138 @@
+[
+ {
+  "id": "nbu",
+  "name": "National Bank of Uzbekistan"
+ },
+ {
+  "id": "xalq",
+  "name": "Xalq Banki"
+ },
+ {
+  "id": "sqb",
+  "name": "SQB"
+ },
+ {
+  "id": "agrobank",
+  "name": "Agrobank"
+ },
+ {
+  "id": "asaka",
+  "name": "Asaka Bank"
+ },
+ {
+  "id": "ipoteka",
+  "name": "Ipoteka Bank"
+ },
+ {
+  "id": "aloqa",
+  "name": "Aloqabank"
+ },
+ {
+  "id": "hamkor",
+  "name": "Hamkorbank"
+ },
+ {
+  "id": "ipakyuli",
+  "name": "Ipak Yuli Bank"
+ },
+ {
+  "id": "turon",
+  "name": "Turonbank"
+ },
+ {
+  "id": "mkb",
+  "name": "Mikrokreditbank"
+ },
+ {
+  "id": "infin",
+  "name": "InFinBank"
+ },
+ {
+  "id": "orient",
+  "name": "Orient Finans Bank"
+ },
+ {
+  "id": "universal",
+  "name": "Universal Bank"
+ },
+ {
+  "id": "trust",
+  "name": "Trastbank"
+ },
+ {
+  "id": "davr",
+  "name": "Davr Bank"
+ },
+ {
+  "id": "aab",
+  "name": "Asia Alliance Bank"
+ },
+ {
+  "id": "kapital",
+  "name": "Kapitalbank"
+ },
+ {
+  "id": "tbc",
+  "name": "TBC Bank Uzbekistan"
+ },
+ {
+  "id": "anor",
+  "name": "Anor Bank"
+ },
+ {
+  "id": "octo",
+  "name": "Octobank"
+ },
+ {
+  "id": "hayot",
+  "name": "Hayot Bank"
+ },
+ {
+  "id": "apex",
+  "name": "Apex Bank"
+ },
+ {
+  "id": "tenge",
+  "name": "Tenge Bank"
+ },
+ {
+  "id": "smart",
+  "name": "Smart Bank"
+ },
+ {
+  "id": "garant",
+  "name": "Garant Bank"
+ },
+ {
+  "id": "uzum",
+  "name": "Uzum Bank"
+ },
+ {
+  "id": "avo",
+  "name": "AVO Bank"
+ },
+ {
+  "id": "yangi",
+  "name": "Yangi Bank"
+ },
+ {
+  "id": "madad",
+  "name": "Madad Invest Bank"
+ },
+ {
+  "id": "poytaxt",
+  "name": "Poytaxt Bank"
+ },
+ {
+  "id": "saderat",
+  "name": "Bank Saderat Tashkent"
+ },
+ {
+  "id": "ziraat",
+  "name": "Ziraat Bank Uzbekistan"
+ },
+ {
+  "id": "cbu",
+  "name": "Central Bank of Uzbekistan"
+ }
+]

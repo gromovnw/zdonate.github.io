@@ -1,0 +1,54 @@
+[
+ {
+  "id": "ameria",
+  "name": "Ameriabank"
+ },
+ {
+  "id": "ardshin",
+  "name": "Ardshinbank"
+ },
+ {
+  "id": "acba",
+  "name": "ACBA Bank"
+ },
+ {
+  "id": "idbank",
+  "name": "IDBank"
+ },
+ {
+  "id": "evoca",
+  "name": "Evocabank"
+ },
+ {
+  "id": "unibank",
+  "name": "Unibank"
+ },
+ {
+  "id": "converse",
+  "name": "Converse Bank"
+ },
+ {
+  "id": "ararat",
+  "name": "Araratbank"
+ },
+ {
+  "id": "aeb",
+  "name": "Armeconombank"
+ },
+ {
+  "id": "vtb",
+  "name": "VTB Armenia"
+ },
+ {
+  "id": "armswiss",
+  "name": "ArmSwissBank"
+ },
+ {
+  "id": "amio",
+  "name": "Amio Bank"
+ },
+ {
+  "id": "cba",
+  "name": "Central Bank of Armenia"
+ }
+]

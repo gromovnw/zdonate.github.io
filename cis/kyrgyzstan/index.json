@@ -1,0 +1,86 @@
+[
+ {
+  "id": "optima",
+  "name": "Optima Bank"
+ },
+ {
+  "id": "kicb",
+  "name": "KICB"
+ },
+ {
+  "id": "bakai",
+  "name": "Bakai Bank"
+ },
+ {
+  "id": "demir",
+  "name": "Demir Bank"
+ },
+ {
+  "id": "rsk",
+  "name": "RSK Bank"
+ },
+ {
+  "id": "ayil",
+  "name": "Ayil Bank"
+ },
+ {
+  "id": "halyk",
+  "name": "Halyk Bank Kyrgyzstan"
+ },
+ {
+  "id": "kkb",
+  "name": "Kyrgyzkommertsbank"
+ },
+ {
+  "id": "mbank",
+  "name": "MBank"
+ },
+ {
+  "id": "obank",
+  "name": "O!Bank"
+ },
+ {
+  "id": "finca",
+  "name": "FINCA Bank"
+ },
+ {
+  "id": "dcb",
+  "name": "Dos-Credobank"
+ },
+ {
+  "id": "tolubay",
+  "name": "Tolubay Bank"
+ },
+ {
+  "id": "baitushum",
+  "name": "Bai-Tushum Bank"
+ },
+ {
+  "id": "kompanion",
+  "name": "Kompanion Bank"
+ },
+ {
+  "id": "ecoislamic",
+  "name": "Eco Islamic Bank"
+ },
+ {
+  "id": "asia",
+  "name": "Bank Asia"
+ },
+ {
+  "id": "rosin",
+  "name": "Rosinbank"
+ },
+ {
+  "id": "capital",
+  "name": "Capital Bank of Central Asia"
+ },
+ {
+  "id": "nbkr",
+  "name": "National Bank of Kyrgyzstan"
+ },
+ {
+  "id": "bta",
+  "name": "BTA Bank Kyrgyzstan"
+ }
+]
